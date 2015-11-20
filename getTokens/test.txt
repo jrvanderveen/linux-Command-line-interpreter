@@ -1,0 +1,12 @@
+cliTokens.c
+Makefile
+test.txt
+tokenizer.c
+tokenizer.h
+tokenizer.o
+tokenizerSaved.c
+tokentest
+tokentest1
+tokentest.c
+tokentest.o
+Warmup.pdf
